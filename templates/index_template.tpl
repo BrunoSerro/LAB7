@@ -49,7 +49,7 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">        
         <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-        <li><a href="#" onclick="register.php">Register</a></li>
+        <li><a href="register.php">Register</a></li>
       </ul>
     </div>
   </div>
